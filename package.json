@@ -1,0 +1,24 @@
+{
+  "name": "js-rando",
+  "version": "1.0.0",
+  "description": "A library of functions to generate random Ints, Floats, Array Elements, and Color Strings.",
+  "main": "js-rando",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moriarty83/js-rando.git"
+  },
+  "keywords": [
+    "random",
+    "randon",
+    "numbers"
+  ],
+  "author": "C. Marshall Moriarty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moriarty83/js-rando/issues"
+  },
+  "homepage": "https://github.com/moriarty83/js-rando#readme"
+}
