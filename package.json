@@ -15,7 +15,7 @@
     "numbers"
   ],
   "author": "C. Marshall Moriarty",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/moriarty83/js-rando/issues"
   },

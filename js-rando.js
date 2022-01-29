@@ -36,11 +36,11 @@ class Rando{
     }
 
     RandomRGBColor(){
-        return `(${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${this.RandomInt(0,256)})`
+        return `rgb(${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${this.RandomInt(0,256)})`
     }
 
     RandomRGBAColor(){
-        return `(${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${Number.parseFloat(this.Random()).toPrecision(1)})`
+        return `rbga(${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${Number.parseFloat(this.Random()).toPrecision(1)})`
     }
 
 }
