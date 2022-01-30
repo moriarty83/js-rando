@@ -45,11 +45,7 @@ class Rando{
 
 }
 
-let rando = new Rando()
-console.log(rando.RandomInt(10, 21))
-
-console.log(rando.RandomRGBAColor())
-// export default Rando
+export default Rando
 
 
 
