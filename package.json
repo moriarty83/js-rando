@@ -1,8 +1,9 @@
 {
   "name": "js-rando",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A library of functions to generate random Ints, Floats, Array Elements, and Color Strings.",
   "main": "js-rando",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +13,11 @@
   },
   "keywords": [
     "random",
-    "numbers"
+    "numbers",
+    "colors",
+    "hex",
+    "RandomInt",
+    "RandomFloat"
   ],
   "author": "C. Marshall Moriarty",
   "license": "MIT",

@@ -16,7 +16,7 @@ class Rando{
 
     RandomFloat(min, max, digits=16){
         digits = digits > 16 ? 16 : digits
-        return (Math.floor(Math.random() * ((max) - min) + min)+this.Random()).toFixed(digits);
+        return (this.RandomInt(min, max)+(+this.Random(digits)));
     }
 
     RandomElement(array){
@@ -40,9 +40,16 @@ class Rando{
     }
 
     RandomRGBAColor(){
-        return `rbga(${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${Number.parseFloat(this.Random()).toPrecision(1)})`
+        return `rgba(${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${this.RandomInt(0,256)}, ${Number.parseFloat(this.Random()).toPrecision(1)})`
     }
 
 }
-export default Rando
+
+let rando = new Rando()
+console.log(rando.RandomInt(10, 21))
+
+console.log(rando.RandomRGBAColor())
+// export default Rando
+
+
 
