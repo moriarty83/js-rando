@@ -1,6 +1,6 @@
 # JS-Rando
 
-JS-Rando provides a class with methods that can be used for easily producing random values including Ingegers, Floats, Array Elements, Hex Numbers, Hex Colors, RBG Colors & RBGA Colors.
+JS-Rando provides a class with methods that can be used for easily producing random values including Integers, Floats, Array Elements, Hex Numbers, Hex Colors, RBG Colors & RBGA Colors.
 
 ## Installation
 
