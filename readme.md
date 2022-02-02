@@ -108,8 +108,8 @@ rando.RandomRGBAColor()
 
 ## Authors
 
-- **Christopher Moriarty** - _Initial work_ - [JohnDoe](https://github.com/JohnDoe)
+- **Christopher Moriarty** - [ChristopherMoriarty](https://github.com/moriarty83/)
 
 ## License
 
-[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
+[MIT License](https://andreasonny.mit-license.org/2019) © Christopher Moriarty
