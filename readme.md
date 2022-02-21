@@ -16,6 +16,10 @@ To use the methods below, import the Rando class and create an instance of it.
 
 `let rando = new Rando()`
 
+### Examples
+
+Working examples of all JS-Rando methods can be viewed at https://js-rando.netlify.app/
+
 ### Methods
 
 #### Random decimal.
