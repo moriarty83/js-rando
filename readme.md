@@ -12,7 +12,7 @@ npm install js-rando
 
 To use the methods below, import the Rando class and create an instance of it.
 
-`import Rando from "./js-rando";`
+`import Rando from "js-rando";`
 
 `let rando = new Rando()`
 
